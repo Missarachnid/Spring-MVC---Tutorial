@@ -4,7 +4,7 @@
 
 ### This project builds a "Hello World" website with Spring.
 *  First a home page opens with a link to the greeting page
-*  You can add the parameter to the page address "http://localhost:8080/greeting?name=User"
+*  You can add the parameter to the page address "/greeting?name=User"
 *  You will get a response saying "Hello, User!"
 *  Gradle was used for the build
 
